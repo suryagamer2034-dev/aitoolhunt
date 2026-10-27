@@ -1,0 +1,210 @@
+[
+  {
+    "id": "other",
+    "name": "Other",
+    "slug": "other",
+    "count": 4415,
+    "color": "bg-slate-400",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "writing-and-editing",
+    "name": "Writing & Editing",
+    "slug": "writing-and-editing",
+    "count": 2133,
+    "color": "bg-blue-600",
+    "icon": "Edit3"
+  },
+  {
+    "id": "code-and-development",
+    "name": "Code & Development",
+    "slug": "code-and-development",
+    "count": 1393,
+    "color": "bg-green-500",
+    "icon": "Code2"
+  },
+  {
+    "id": "chatbots",
+    "name": "Chatbots",
+    "slug": "chatbots",
+    "count": 1345,
+    "color": "bg-violet-500",
+    "icon": "Bot"
+  },
+  {
+    "id": "image-generation",
+    "name": "Image Generation",
+    "slug": "image-generation",
+    "count": 1199,
+    "color": "bg-purple-500",
+    "icon": "Image"
+  },
+  {
+    "id": "audio-and-voice",
+    "name": "Audio & Voice",
+    "slug": "audio-and-voice",
+    "count": 993,
+    "color": "bg-pink-500",
+    "icon": "Music2"
+  },
+  {
+    "id": "video-and-animation",
+    "name": "Video & Animation",
+    "slug": "video-and-animation",
+    "count": 883,
+    "color": "bg-red-500",
+    "icon": "Video"
+  },
+  {
+    "id": "data-and-analytics",
+    "name": "Data & Analytics",
+    "slug": "data-and-analytics",
+    "count": 614,
+    "color": "bg-slate-500",
+    "icon": "Database"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "slug": "education",
+    "count": 568,
+    "color": "bg-blue-500",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "design-and-creative",
+    "name": "Design & Creative",
+    "slug": "design-and-creative",
+    "count": 492,
+    "color": "bg-orange-500",
+    "icon": "Palette"
+  },
+  {
+    "id": "automation",
+    "name": "Automation",
+    "slug": "automation",
+    "count": 471,
+    "color": "bg-cyan-500",
+    "icon": "Workflow"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "slug": "marketing",
+    "count": 469,
+    "color": "bg-emerald-600",
+    "icon": "Megaphone"
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "slug": "research",
+    "count": 460,
+    "color": "bg-teal-500",
+    "icon": "Search"
+  },
+  {
+    "id": "e-commerce",
+    "name": "E-commerce",
+    "slug": "e-commerce",
+    "count": 459,
+    "color": "bg-amber-500",
+    "icon": "ShoppingCart"
+  },
+  {
+    "id": "social-media",
+    "name": "Social Media",
+    "slug": "social-media",
+    "count": 423,
+    "color": "bg-pink-600",
+    "icon": "Share2"
+  },
+  {
+    "id": "hiring-and-hr",
+    "name": "Hiring & HR",
+    "slug": "hiring-and-hr",
+    "count": 415,
+    "color": "bg-yellow-500",
+    "icon": "UserPlus"
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "slug": "finance",
+    "count": 409,
+    "color": "bg-emerald-500",
+    "icon": "DollarSign"
+  },
+  {
+    "id": "customer-service",
+    "name": "Customer Service",
+    "slug": "customer-service",
+    "count": 393,
+    "color": "bg-lime-500",
+    "icon": "Headphones"
+  },
+  {
+    "id": "productivity",
+    "name": "Productivity",
+    "slug": "productivity",
+    "count": 302,
+    "color": "bg-indigo-500",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "email",
+    "name": "Email",
+    "slug": "email",
+    "count": 278,
+    "color": "bg-fuchsia-500",
+    "icon": "Mail"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "slug": "health",
+    "count": 260,
+    "color": "bg-rose-500",
+    "icon": "HeartPulse"
+  },
+  {
+    "id": "translation",
+    "name": "Translation",
+    "slug": "translation",
+    "count": 232,
+    "color": "bg-cyan-600",
+    "icon": "Languages"
+  },
+  {
+    "id": "seo",
+    "name": "SEO",
+    "slug": "seo",
+    "count": 152,
+    "color": "bg-green-600",
+    "icon": "TrendingUp"
+  },
+  {
+    "id": "legal",
+    "name": "Legal",
+    "slug": "legal",
+    "count": 151,
+    "color": "bg-zinc-500",
+    "icon": "Scale"
+  },
+  {
+    "id": "meetings",
+    "name": "Meetings",
+    "slug": "meetings",
+    "count": 109,
+    "color": "bg-sky-500",
+    "icon": "Users"
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate",
+    "slug": "real-estate",
+    "count": 106,
+    "color": "bg-stone-500",
+    "icon": "Home"
+  }
+]
